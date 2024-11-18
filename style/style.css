@@ -1,0 +1,197 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+}
+.navbar {
+  position: fixed;
+  z-index: 99999;
+  top: 0%;
+  width: 100%;
+}
+.bg-offcanvas {
+  background: linear-gradient(30deg, #e6e9f8, #f7f7f7);
+}
+.toggler-icon {
+  color: #d4dbff;
+  background: linear-gradient(30deg, #4a5bb1, #f7f7f7);
+}
+
+/* header*/
+.bottom-s {
+  font-size: 12px;
+}
+.input-s {
+  font-size: small;
+  color: rgb(92, 92, 92);
+}
+.input-s-two {
+  font-size: small;
+  color: lightsteelblue;
+}
+.btn-custom {
+  background-color: #4b3ec4;
+  padding: 5px;
+  cursor: pointer;
+}
+.form-control:focus,
+button:focus {
+  outline: none;
+  box-shadow: none;
+}
+.categories-search input:focus {
+  outline: none;
+}
+.hotline {
+  margin-right: 70px;
+}
+.two {
+  color: #4b3ec4;
+  cursor: pointer;
+}
+.nav-link:focus {
+  box-shadow: none;
+}
+.nav-link-1 {
+  color: black;
+  font-weight: 500;
+  font-size: 14px;
+  border: none;
+  border-radius: 8px;
+}
+.nav-link-2 {
+  color: black;
+  font-weight: 600;
+  font-size: 14px;
+}
+.eng-logo {
+  width: 20px;
+}
+.nav-link-2:hover {
+  color: #4b3ec4;
+}
+.nav-link-1:hover {
+  color: white;
+  background-color: #4b3ec4;
+  border-radius: 8px;
+}
+.dropdown-menu a:hover {
+  color: white;
+  background-color: #4b3ec4;
+}
+.multi-products {
+  padding-top: 220px;
+}
+.main-sec-start {
+  padding-top: 190px;
+}
+.top-icos {
+  margin-left: 130px;
+}
+.theme-4 {
+  font-size: 11px;
+}
+.position-relative {
+  position: relative;
+}
+.overlay {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  font-weight: 200;
+  font-size: 12px;
+}
+.ove-card {
+  font-size: 10px;
+}
+.text-size {
+  font-size: 12px;
+}
+.card-text {
+  font-size: 10px;
+}
+.btn-percent {
+  font-size: smaller;
+  color: #f1352b;
+  border-color: #f1352b;
+  transition-duration: 0.4s;
+}
+.btn-percent:hover {
+  background-color: #7567f3;
+}
+.btn-cards-1 {
+  font-size: x-small;
+  background-color: #f1352b;
+}
+.btn-cards {
+  font-size: x-small;
+  background-color: #4b3ec4;
+  border: #4b3ec4;
+}
+.btn-cards:hover {
+  background-color: #4b3ec4;
+}
+.dol {
+  color: #f1352b;
+}
+.str {
+  color: darkgray;
+}
+.bd-example-snippet {
+  font-size: 7px;
+}
+.btn-cards-3 {
+  font-size: x-small;
+}
+.btn-cards-4 {
+  background-color: rgb(0, 153, 0);
+}
+.speak {
+  font-size: 14px;
+}
+
+/*footer*/
+.theme-2 {
+  font-size: 14px;
+  color: darkgrey;
+}
+.theme-2 a {
+  color: rgb(129, 129, 129);
+}
+.footer-headings {
+  font-weight: 400;
+}
+.icons-bottom ul li {
+  color: black;
+}
+.icon-link-hover:hover {
+  cursor: pointer;
+}
+
+/*start Contact*/
+.Contact {
+  padding-top: 230px;
+}
+.mail {
+  color: #4b3ec4;
+}
+.mail-heang-s {
+  font-size: 12px;
+}
+.social-icon:hover {
+  background-color: #4a5bb1;
+}
+.producs-sec {
+  padding-top: 200px;
+}
+.sell-swoo {
+  padding-top: 190px;
+}
+body, html{
+  overflow-x:hidden;
+}
+.font-size{
+  font-size: 10px;
+}
